@@ -2,4 +2,4 @@
 ## Kame_MLCourse_PYfile
 米国データサイエンティストのブログ  
 https://datawokagaku.com/  
-の機械学習講座で学習
+の「データサイエンス入門講座: 機械学習編」で学習
