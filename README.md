@@ -1,4 +1,21 @@
 # my-learning
+---
+## [DeepLearning_from_scratch_1](https://github.com/pajannat/my-learning/tree/main/DeepLearning_from_scratch_1)
+[米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座](https://www.oreilly.co.jp/books/9784873117584/)
+で学習  
+<学習時メモ>  
+'section1-3.ipynb'  
+'section4-.ipynb'
+
+---
+## [DeepLearning_from_scratch_2](https://github.com/pajannat/my-learning/tree/main/DeepLearning_from_scratch_2)
+[ゼロから作るDeep Learning ❷ ―自然言語処理編](https://www.oreilly.co.jp/books/9784873118369/)
+で学習  
+<学習時メモ>  
+各フォルダの
+'Untitled.ipynb'  
+
+---
 ## [Kame_MLCourse_PYfile](https://github.com/pajannat/my-learning/tree/main/Kame_MLCourse_PYfile)
 [米国データサイエンティストのブログ](https://datawokagaku.com/)  
 の「データサイエンス入門講座: 機械学習編」で学習
