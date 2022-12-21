@@ -29,3 +29,8 @@
 ## [Kame_Udemy_StatsCourse](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_StatsCourse)
 [米国データサイエンティストが教える統計学超入門講座](https://www.udemy.com/share/105sEC3@gCuKmRzC2Ybl61kUhrIRgPsHxhglnMeFylLbqhjqrRgENDywyGxSMRF04hzVkJtP/)
 で学習
+
+---
+## MNIST_PyTorch.ipynb
+[【PyTorch】MNISTのサンプルプログラム](https://imagingsolution.net/deep-learning/pytorch/pytorch_mnist_sample_program/)
+のコードを試しに実行した
