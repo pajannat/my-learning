@@ -31,6 +31,6 @@
 で学習
 
 ---
-## MNIST_PyTorch.ipynb
+## [MNIST_PyTorch.ipynb](https://github.com/pajannat/my-learning/blob/main/MNIST_PyTorch.ipynb)
 [【PyTorch】MNISTのサンプルプログラム](https://imagingsolution.net/deep-learning/pytorch/pytorch_mnist_sample_program/)
 のコードを試しに実行した
