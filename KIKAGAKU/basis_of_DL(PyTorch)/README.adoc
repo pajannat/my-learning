@@ -1,3 +1,3 @@
-### KIKAGAKUのチュートリアル
+### KIKAGAKUのサイトのチュートリアルで学習
 https://free.kikagaku.ai/tutorial/basic_of_deep_learning/learn/pytorch_beginners[ディープラーニングの基礎（PyTorch）] +
 Pytorch, PyTorch Lightningの基礎も学べる
