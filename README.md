@@ -38,6 +38,12 @@
 で学習
 
 ---
+## [Kame_Udemy_MLCourse_Part3](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_MLCourse_Part3)
+[【本番編!!】米国データサイエンティストがやさしく教える機械学習超入門【Pythonで実践】
+](https://www.udemy.com/course/mlpython-3/)
+で学習
+
+---
 ## [Kame_Udemy_StatsCourse](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_StatsCourse)
 [米国データサイエンティストが教える統計学超入門講座](https://www.udemy.com/share/105sEC3@gCuKmRzC2Ybl61kUhrIRgPsHxhglnMeFylLbqhjqrRgENDywyGxSMRF04hzVkJtP/)
 で学習
