@@ -44,19 +44,19 @@
 で学習
 
 ---
-## [Kame_Udemy_MLCourse_Part3](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_DLCourse_1)
+## [Kame_Udemy_DLCourse_1](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_DLCourse_1)
 [①米国AI開発者がやさしく教える深層学習超入門第一弾【Pythonで実践】
 ](https://www.udemy.com/course/deeplearning1/)
 で学習
 
 ---
-## [Kame_Udemy_MLCourse_Part3](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_DLCourse_2)
+## [Kame_Udemy_DLCourse_2](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_DLCourse_2)
 [②米国AI開発者がやさしく教える深層学習超入門第二弾(画像認識)【Pythonで実践】
 ](https://www.udemy.com/course/deeplearning2/)
 で学習
 
 ---
-## [Kame_Udemy_MLCourse_Part3](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_DLCourse_3)
+## [Kame_Udemy_DLCourse_3](https://github.com/pajannat/my-learning/tree/main/Kame_Udemy_DLCourse_3)
 [③米国AI開発者がやさしく教える深層学習超入門第三弾(自然言語処理)【Pythonで実践】】
 ](https://www.udemy.com/course/deeplearning3/)
 で学習
